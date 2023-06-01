@@ -1,6 +1,8 @@
 <template>
   <v-card color="red-lighten-2">
-    <v-card-title class="text-h4 text-wrap text-center">
+    <v-card-title 
+      class="text-h4 text-wrap text-center"
+    >
       Join Our Newsletter
     </v-card-title>
 

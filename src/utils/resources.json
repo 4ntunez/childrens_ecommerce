@@ -203,7 +203,7 @@
                 "stock": 9,
                 "price": "21.99",
                 "images": [
-                    "recursos/for boys/boys-2-580x870.jpg",
+                    "recursos/for boys/boys-2-580x870(1).jpg",
                     "recursos/for boys/boys-2-1-580x870.jpg"
                 ],
                 "rating": 0,
@@ -397,7 +397,7 @@
                 "stock": 13,
                 "price": "20.99",
                 "images": [
-                    "recursos/for boys/boys-2-580x870(1).jpg"
+                    "recursos/for boys/boys-2-580x870.jpg"
                 ],
                 "rating": 3,
                 "color": "red",
