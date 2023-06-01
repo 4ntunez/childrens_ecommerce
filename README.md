@@ -42,7 +42,7 @@ La aplicación estará disponible en `http://localhost:3000`.
 ## recursos
 
 - Dentro del directorio "utils" se encuentra el JSON con la información referente a los productos
-- EL directorio recursos enviado para el ejercicio se encuentra dentro de "assest" 
+- EL directorio recursos enviado para el ejercicio se encuentra dentro de "assets" 
 - Para el ejercicio los artículos se nombraron usando: Item <categoria> 00<id>
 
 
