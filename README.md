@@ -1,57 +1,50 @@
 # essentials
 
-## Project setup
+# childrens-ecommerce
 
-```
-# yarn
-yarn
 
-# npm
-npm install
+## Ejercicio
 
-# pnpm
-pnpm install
-```
+- Frontend
 
-### Compiles and hot-reloads for development
 
-```
-# yarn
-yarn dev
+## Requisitos
 
-# npm
-npm run dev
+- Node.js
+- Vue3.js | Compsition API
+- Vuetify3.js => Framework de componentes visuales para Vue.js
 
-# pnpm
-pnpm dev
-```
 
-### Compiles and minifies for production
+## Instalación
 
-```
-# yarn
-yarn build
+1. Clonar el repositorio:
 
-# npm
-npm run build
+   
+   git clone `https://github.com/antunezcantero/childrens_ecommerce.git`
+   
 
-# pnpm
-pnpm build
-```
+2. Instalar las dependencias:
 
-### Lints and fixes files
+   
+   cd children-ecommerce
+   yarn install
+   
 
-```
-# yarn
-yarn lint
+3. Iniciar la aplicación:
 
-# npm
-npm run lint
+   
+   yarn dev
+   
 
-# pnpm
-pnpm lint
-```
+La aplicación estará disponible en `http://localhost:3080`.
 
-### Customize configuration
 
-See [Configuration Reference](https://vitejs.dev/config/).
+## recursos
+
+Dentro del directorio "utils" se encuentra el JSON con la información referente a los productos
+
+
+## Despliegue
+
+La aplicación está desplegada para ser probada en Github Pages,
+puede acceder a ella desde la URL: `https://antunezcantero.github.io`.
