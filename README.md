@@ -11,7 +11,7 @@
 ## Requisitos
 
 - Node.js
-- Vue3.js | Compsition API
+- Vue3.js | Composition API
 - Vuetify3.js => Framework de componentes visuales para Vue.js
 
 
