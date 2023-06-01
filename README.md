@@ -36,7 +36,7 @@
    yarn dev
    
 
-La aplicación estará disponible en `http://localhost:3080`.
+La aplicación estará disponible en `http://localhost:3000`.
 
 
 ## recursos
